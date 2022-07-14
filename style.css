@@ -53,5 +53,43 @@ h2{
                         padding: 10px 40px;
                         border-radius: 5px;
 }
+.over{
+                        display: flex;
+}
+.dibbya{
+           display: block;
+           text-decoration: none;
 
-            
+}
+.mo{
+                        color: deepskyblue;
+}
+.lol{
+                        color: black;
+}
+.zoom{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        box-shadow: 10px 10px 40px red;
+        text-align: center;
+        padding-left: 10px;
+        border-radius: 30px;
+}
+            .footer{
+                text-align: center;
+                background-color: black;   
+                color: white;
+                
+               
+            }
+            .side{
+                text-align: left;
+                padding-left: 5%;
+            }
+            .right{
+                      padding-right: 20%;
+            }
+            .naw{
+                  padding-left: 10%;
+            }
