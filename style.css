@@ -1,0 +1,51 @@
+body{ 
+                        margin: 0 ;
+
+}
+.dibbo{
+           
+                        display: flex;  
+                        background-image: url(image/top-banner.png);
+ background-repeat: no-repeat;   
+                            
+}
+h1{
+           font-size:32px;             
+}
+h2{
+                        font-size: 20px;
+
+}
+.pic2{
+                        padding: 20px 20px;
+                        width: 10px;
+                        height: 20px;
+
+}
+.pic{
+                        width: 50%;
+                        padding: 20px 20px;
+
+                        
+}
+.pic img {
+              height: 400px;
+              border-radius: 90px;
+              
+
+}
+.way{
+        padding-left:10%;                
+}
+.DB{
+                         color: lightskyblue;
+}
+.link{
+                        text-decoration: none;
+                        color: aqua;
+                        background-image: linear-gradient( black ,  lightskyblue );
+                        padding: 10px 40px;
+                        border-radius: 5px;
+}
+
+            
