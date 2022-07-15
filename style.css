@@ -1,5 +1,6 @@
 body{ 
                         margin: 0 ;
+                        font-family: 'Poppins', sans-serif;
 
 }
 .dibbo{
@@ -55,6 +56,9 @@ h2{
 }
 .over{
                         display: flex;
+                        background-image: url(image/exp-bg.png);
+                        background-repeat: no-repeat;
+                        
 }
 .dibbya{
            display: block;
@@ -74,18 +78,20 @@ h2{
         box-shadow: 10px 10px 40px red;
         text-align: center;
         padding-left: 10px;
-        border-radius: 30px;
+        border-radius: 50px;
+        border-right: 10px solid rgb(91, 38, 236);
 }
+
             .footer{
                 text-align: center;
-                background-color: black;   
-                color: white;
+                background-color: rgb(200, 201, 219)
+                
                 
                
             }
             .side{
-                text-align: left;
-                padding-left: 5%;
+                text-align: center;
+                padding-left: 7%;
             }
             .right{
                       padding-right: 20%;
@@ -93,3 +99,16 @@ h2{
             .naw{
                   padding-left: 10%;
             }
+            .book{
+                     margin-left: 5%;
+                     margin-right:5%;
+                     width: 50px;
+            }
+                    
+            
+            .cat{
+                display: flex;
+                padding-left: 7%;
+                
+            }
+            
